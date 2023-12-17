@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "morning-briefing",
+	"name": "Morning Briefing Generator",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false
+	"description": "Runs a custom Python script to generate a morning briefing.",
+	"author": "William",
+	"authorUrl": "https://mydigitalgarden.space",
+	"fundingUrl": "",
+	"isDesktopOnly": true
 }
